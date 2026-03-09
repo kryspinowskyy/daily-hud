@@ -1,0 +1,16 @@
+{
+  "short_name": "DAILY_HUD",
+  "name": "DAILY_HUD | Taktyczny Planer",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#008080",
+  "background_color": "#f0f4f8"
+}
